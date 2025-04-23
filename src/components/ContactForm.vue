@@ -94,6 +94,6 @@
   
   <style scoped>
   
-  @import "@/assets/main.css";
+  @import "@/assets/form.css";
   
   </style>
